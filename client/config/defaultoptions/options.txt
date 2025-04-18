@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","convenientdecor:hydrated_farmland","Moonlight Mods Dynamic Assets","tinyskeletons:main","continuity:default","continuity:glass_pane_culling_fix","file/infinity","file/Visual Titles 1.1.zip","file/BrewingCanvas_v0.6_1.19.zip","file/absolemsbasepack.zip","file/foreck1_12.zip","file/Create-LabPBR-v12.zip","file/§dAVPBR Retextured R4.zip","file/Fire_Rekindled.zip","file/DiagonalPerfectRails2.1.zip","file/Immersive Day\u0027n\u0027Night.zip"]
-incompatibleResourcePacks:["file/Visual Titles 1.1.zip","file/BrewingCanvas_v0.6_1.19.zip","file/absolemsbasepack.zip","file/foreck1_12.zip","file/Create-LabPBR-v12.zip","file/§dAVPBR Retextured R4.zip","file/Fire_Rekindled.zip"]
+resourcePacks:["vanilla","fabric","convenientdecor:hydrated_farmland","Moonlight Mods Dynamic Assets","tinyskeletons:main","continuity:default","continuity:glass_pane_culling_fix","file/infinity","file/Visual Titles 1.1.zip","file/absolemsbasepack.zip","file/foreck1_12.zip","file/Create-LabPBR-v12.zip","file/§dAVPBR Retextured R4.zip","file/Fire_Rekindled.zip","file/DiagonalPerfectRails2.1.zip","file/Immersive Day\u0027n\u0027Night.zip"]
+incompatibleResourcePacks:["file/Visual Titles 1.1.zip","file/absolemsbasepack.zip","file/foreck1_12.zip","file/Create-LabPBR-v12.zip","file/§dAVPBR Retextured R4.zip","file/Fire_Rekindled.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
