@@ -13,5 +13,5 @@ include_directories = [".improper-ui", "resourcepacks", "shaderpacks"]
 
 [loader]
 type = "fabric"
-version = "0.16.13"
+version = "0.16.14"
 sinytra_compat = false
