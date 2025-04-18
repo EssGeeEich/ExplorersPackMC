@@ -967,6 +967,17 @@
         "version": "fabric-0.1.1-1.20.1",
         "version_id": "YBPDqGX1"
     },
+    "WEg59z5b": {
+        "checksum": "1d52b9c1f88f26a6bde8db7ab63ee379dd4f25f5bbe0d160e4af608e56973e9213dca1694080552d15c6f9a0506f3abb2440d29097a2883fcd87856369cc0e74",
+        "client_side_only": true,
+        "ignore_dependencies": false,
+        "name": "Default Options",
+        "pinned": false,
+        "project_id": "WEg59z5b",
+        "selected": true,
+        "version": "18.0.1+fabric-1.20",
+        "version_id": "QIKpMBgZ"
+    },
     "WRaRZdTd": {
         "checksum": "1ed7a95c64c91d23a6622fb72fa960e696f808c6b3b6fe8fa334c697bf83f9f68fd9f836eed20f2fe1b0cfeada006f7954dcdfb48b5211f81dc64600b23cfb62",
         "client_side_only": false,
