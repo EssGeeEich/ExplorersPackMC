@@ -44,15 +44,15 @@
         "version_id": "8TD76y1j"
     },
     "5XH5uKvv": {
-        "checksum": "2a13b2418498972d7d9299b0488641f4292e85cdfb760cbda2c4639d6327da70bfe6abc81ce68e774e50fe288673559e07d03be8cb94c8b7f3bc329c4a28042f",
+        "checksum": "8b61866e3379c79de7cdc89ae98a378d57692ed641b25bfd4a26369fef26863ee9206240e0c2fad502af0812ec17240003f5cd4a4efaa6df2d04d3c7be67bf95",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Extra Bounties",
         "pinned": false,
         "project_id": "5XH5uKvv",
         "selected": true,
-        "version": "1.3.4",
-        "version_id": "F1PG1hWs"
+        "version": "1.3.5",
+        "version_id": "5F4oHZKu"
     },
     "5aaWibi9": {
         "checksum": "ab3d28d45ee80eb7d604b4038e62308e7323c83a05f91f197de3b6465340454d0c3a78ed41ce31586ad0722c8d648c5572f012cc5df4d88bf7203a25d2157d62",
@@ -143,15 +143,15 @@
         "version_id": "Xc6BwCFB"
     },
     "9jxwkYQL": {
-        "checksum": "5674361efba9bc565665ee62838ab74f4727499174afe430a0b8ed199449a3bebe6c32e3daf401f6d4aa56d178f1abbd96d704eaf8200985df02b48c7d4d7ed4",
+        "checksum": "cdb77982afbc4ec7951f272e1d73d639c811ed8a5bc9ad8ec928633af9255750ddee739eaf84187f45fc9c10685807804829fc465c82a870c46e07a9db8a6403",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Sophisticated Core (Unofficial Fabric port)",
         "pinned": false,
         "project_id": "9jxwkYQL",
         "selected": false,
-        "version": "1.20.1-1.0.8.1.119",
-        "version_id": "KrzdxAak"
+        "version": "1.20.1-1.2.7.2.139",
+        "version_id": "nOg0wscg"
     },
     "9s6osm5g": {
         "checksum": "5bcc6cba362afe57fb97f98222199c4eb70e3e0d9395cb2bac28796c0b361973e85092831ad5eb7deed93f9c37963c3d7bb8df2669b10c19ffb749f263787a52",
@@ -209,15 +209,15 @@
         "version_id": "UG6Mfv39"
     },
     "B8jaH3P1": {
-        "checksum": "b7687773bfe0e2e39f5f2222492814fa91648901de59a59a2c6fc6ab741d1da16df43e517e70bdb478fa9ae8c82b349fc43dea285c828f498814d5e39c045bc8",
+        "checksum": "4d7aa16381167a346d303cb416fac62790613fc4550971d90686945aeab6d9692c4c76ab2a7fd39b4137e325b23a890ed65903d92291d2df5404841d60ed66b3",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Macaw's Roofs",
         "pinned": false,
         "project_id": "B8jaH3P1",
         "selected": true,
-        "version": "2.3.1",
-        "version_id": "EOjhPmTj"
+        "version": "2.3.2",
+        "version_id": "BMjP4VXn"
     },
     "BpwWFOVM": {
         "checksum": "0e1b6dbc86095a7e4cf1d5ba7254ee3ce64437b031c91ba6fb9c7d84f798baf7bc35c4679d58e5bab4401692afff42e2daaeb5af0611efa9ef22cd8bc099fbfe",
@@ -240,6 +240,17 @@
         "selected": true,
         "version": "2.3.0",
         "version_id": "88sYNcv4"
+    },
+    "Cnejf5xM": {
+        "checksum": "cd39c949e8b4c98283100b1814aff1d6210b19c7323001c8ea0e957dc466afc39ef710a4c8c6f79a9e3b58b810d335a0745d2130117fe0141683373a2d00d97c",
+        "client_side_only": false,
+        "ignore_dependencies": false,
+        "name": "RightClickHarvest",
+        "pinned": false,
+        "project_id": "Cnejf5xM",
+        "selected": true,
+        "version": "4.5.3+1.20.1",
+        "version_id": "69gsvtB3"
     },
     "Cq0m2EIu": {
         "checksum": "93db46911597bbdc1ea5e692086d0c2aa853ac5535553c3930aac32c0f3847b6aa513dc75f7dc7a1a526dc53a43e9428807ee43aaf1e8f661b5e17b584c01330",
@@ -483,27 +494,38 @@
         "version": "v8.1.5-1.20.1-Fabric",
         "version_id": "eJNY2Ah4"
     },
+    "IYY9Siz8": {
+        "checksum": "1bb98e4fbd6bf9e935c06cecbb04684b7e62c11b6417defd25c12adec59c3be87f3f6f4fb3aa0600c11bcc1f8f8abc4f788d6fc2a11cba8dcfcc2c5d0d476ebe",
+        "client_side_only": false,
+        "ignore_dependencies": false,
+        "name": "JamLib",
+        "pinned": false,
+        "project_id": "IYY9Siz8",
+        "selected": false,
+        "version": "1.3.5+1.20.1",
+        "version_id": "H0fnarYV"
+    },
     "JrvR9OHr": {
-        "checksum": "52b4ac766100b83dcda53af104c1ec1dceb4efbfde66c953f0b12a71ef7d0731a5bb8e74147861c0e811e0f3dde08fecc0aef6cf9af2b74f2961f05881f6e33e",
+        "checksum": "6cab8023a0b5a78f5dad4b9e57345826577ac9d42a25206016c37b13d1b6978ea8ca9ffe0312a574e9a60b669f72ef0b0e1617637348b0c4af38cb366c8ffee3",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Double Doors",
         "pinned": false,
         "project_id": "JrvR9OHr",
         "selected": true,
-        "version": "1.20.1-6.2-fabric+forge+neo",
-        "version_id": "YsYb9yPB"
+        "version": "1.20.1-7.0-fabric+forge+neo",
+        "version_id": "GX8u7Pre"
     },
     "KgKqTqPj": {
-        "checksum": "7ef264f05f72292cce2ace97a6aa01a4d1690bccbe27c7864b9b202ba86d7136afa16a028b91b752f5e2ea2efcbdbab29f10bf9c9d4b657b9a8aec1380f5431f",
+        "checksum": "f052d597147492f02f1533f8417adc627acccbd3cd45c6fd6e3f59815b50db7a3648fd888a07e11d393bf7233c3c9e84e48ed422da9bec572d9e6b9668dcf821",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Infinite Dimensions",
         "pinned": false,
         "project_id": "KgKqTqPj",
         "selected": true,
-        "version": "2.4.4+1.20.1",
-        "version_id": "1JQUySt6"
+        "version": "2.4.5+1.20.1",
+        "version_id": "EGqbIFgW"
     },
     "LN9BxssP": {
         "checksum": "4e8bfe7b5dadb51a0f299b3e4f0bc6ceebe228ecf983c34e5f87bab6b988224a225c0a7b6250e670e8b52d54ad3413c71d76fffa25bc5efeec9607b0eea3f220",
@@ -517,15 +539,15 @@
         "version_id": "Ur02nrUT"
     },
     "LOpKHB2A": {
-        "checksum": "71e93a78e9f7a51d62a7687df076192b02cf6330454cc3ecbd236497e27731693566fb5172501a719200cff39ac455597f120e6396229b0012ce68d3dbb72448",
+        "checksum": "1cba5a6f2dd269b2db21c0c68fa0a7d1fd4f3f07387ded69889d9affcf6e9d6e7a6130d2e1bfa08dbacac441fd36824efc200ec5b37d54f58b4913e8e399c974",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Waystones",
         "pinned": false,
         "project_id": "LOpKHB2A",
         "selected": true,
-        "version": "14.1.11+fabric-1.20.1",
-        "version_id": "xp7soos1"
+        "version": "14.1.12+fabric-1.20.1",
+        "version_id": "C58OV2js"
     },
     "LrYZi08Q": {
         "checksum": "e13cbfcea63b96c751e79507e2f61f68c65bc4efa823d2af08833ad0fe9eb95e181cab5906b705c01781af5460febb3273a7169f20c0a7a644811893683f7397",
@@ -550,15 +572,15 @@
         "version_id": "2gStMKhM"
     },
     "MBAkmtvl": {
-        "checksum": "9b8fe81caf62a2dd8118d697ea11c9ab18c2f192f207512f265bf5d4c7f49cad4bea49ca9265d9012af66390da372fe2de273e103c726a3b637c52811fa149dc",
+        "checksum": "9cf1d79fd1ee09fbb2c4e4b8c970aed980d72432e6564bbfa5846fc5aa39e1dcaaad6ad916024015fbe26b51945720403d3ba424d946b8b26829efb1fb3e756e",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Balm",
         "pinned": false,
         "project_id": "MBAkmtvl",
         "selected": false,
-        "version": "7.3.27+fabric-1.20.1",
-        "version_id": "UqThQVCU"
+        "version": "7.3.28+fabric-1.20.1",
+        "version_id": "tXBMGkPW"
     },
     "MI1LWe93": {
         "checksum": "760e93ab7060816a399b3d7d868690e37b61d24c30a7a69d7f25f4984106cd2a79912e92767084e6bc0778843ae91e0dedd09cb50bf668ba282ad09c3245f5b1",
@@ -880,15 +902,15 @@
         "version_id": "Fh2MJAAe"
     },
     "XxWD5pD3": {
-        "checksum": "07cfb3e9144311c4d9fb95d45a76bb4ba93b60c64905ae23343ab7b2f932450cf9ce04f3268011196b2abe9e2e09d7e7ec8cd3476e49cf05d49feac87218c932",
+        "checksum": "046743138fa91da3af8e6fa60f722c2afc0d7b0220a8b014eb170b7ae20137376d2a53820ecc515d32bbf3a724c40b37c29a57813dc1f2fa623a072e6ecbb914",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Applied Energistics 2",
         "pinned": false,
         "project_id": "XxWD5pD3",
         "selected": true,
-        "version": "15.3.4",
-        "version_id": "a6ykDw4H"
+        "version": "15.3.6",
+        "version_id": "eDnBiYjR"
     },
     "Yd4wb5wZ": {
         "checksum": "0e64d82be4628c31086ff4b192446ca385a3d1a70e8b7f4d96339bce3a60c77861ee355c146bb8a0bf05c1b81caf1197a7de8a80b2ecf801e7743beded01676e",
@@ -1023,15 +1045,15 @@
         "version_id": "wjCAzw7g"
     },
     "eiktJyw1": {
-        "checksum": "97ddabac8260605eecc3ce5e98d27890c9bf91c279b3411438c6a473f394da855b3f82b791979ae90f6392603eec04f0d44340653cd8bbf023d1d56c8f17c120",
+        "checksum": "98ff4235e444e0081b4904ae896802758bb28b42569d641ce553294a3b47cc524463d32231bebcb69b02c1269cd564e4509a77cb7f83890eacc86c41132c22f3",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Every Compat (Wood Good)",
         "pinned": false,
         "project_id": "eiktJyw1",
         "selected": true,
-        "version": "1.20-2.7.26",
-        "version_id": "EtvyKvrX"
+        "version": "1.20-2.8.2-fabric",
+        "version_id": "GIB0gMU5"
     },
     "fFEIiSDQ": {
         "checksum": "0737e0249e21bbecdc55b7d81034cf0f07785bb56cbf174123305a59593359a580faf00a000a389dfbc6c5241f4129c7d31fe143199bc8b0028ffbdeed15ccaa",
@@ -1331,26 +1353,26 @@
         "version_id": "WbL7MStR"
     },
     "lz0ymQav": {
-        "checksum": "7fa6aaed548464793ae2f89e16cd0370330d3b09487e0fc462e4de3e211433b4d11e278af24a11b33bb54e3b2797a2b4c94026e8700139887a927de8ec7bd7a7",
+        "checksum": "2b320f21bcb435b648a6ed493798b36eeceecd7525c15ba1a5e4ca7899ec4b2b3e95f7639b6c722fa2d1da5c31556dd308f1897914ea94489c088b5735ac634e",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Charm Forked",
         "pinned": false,
         "project_id": "lz0ymQav",
         "selected": true,
-        "version": "6.0.23",
-        "version_id": "txFZVA7O"
+        "version": "6.0.24",
+        "version_id": "dzyPM02S"
     },
     "mQWkB9ON": {
-        "checksum": "31776d5d8f9d6506d536031482c73e1a35d2e92605bdae6e3807cb5ff2510be45424c97fdc10785124039e117d5b461979b8f03e7998764bba1ba334a54f9b45",
+        "checksum": "81def7ea34a061c3666c1fdde88c92dbb17b2e80fc30575c337a30036678d509deaecc20bd021e3d40dafc9987c91efae46f107c6afffdfb62459ae8f96849ad",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Stack Refill",
         "pinned": false,
         "project_id": "mQWkB9ON",
         "selected": true,
-        "version": "1.20.1-4.6-fabric+forge+neo",
-        "version_id": "f6ofQRO7"
+        "version": "1.20.1-4.7-fabric+forge+neo",
+        "version_id": "48t8duHT"
     },
     "n2fvCDlM": {
         "checksum": "63d09f7787c26fde3c78562f0f7c96503b0421cafb3c4eb6a7751c4a5b806196efa4fa772a51c4324c826d003f1855c414a7bddc03993d37b686b556c4f3e1a7",
@@ -1452,15 +1474,15 @@
         "version_id": "CwHvP3Pz"
     },
     "ouNrBQtq": {
-        "checksum": "2cef5b52ce0b9b0e16ba689679c5164e34d70e83bc5d753cb00ba2382ef7be27a338d3f8ab1812e13ca54e606e9c570a1c0b71d1aefc586c80ff486bbbb7e757",
+        "checksum": "2df49fa9f7760fffe5b824d146b0a510dc76861149083d60610a05facc056cf7855a57813d7edfdc3968e551178167eb10b0b95e8936ae20d44b3d4111f00cd0",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Sophisticated Backpacks (Unoffical Fabric port)",
         "pinned": false,
         "project_id": "ouNrBQtq",
         "selected": true,
-        "version": "1.20.1-3.21.2.1.81",
-        "version_id": "g7vm5J1t"
+        "version": "1.20.1-3.23.4.1.95",
+        "version_id": "2dpSRXlj"
     },
     "p19vrgc2": {
         "checksum": "58ea84ac7277951bbaa1a97e9e1883cee39e6db2102e6c88447613df8c4625744646ef33eb549262775c67af469b208637e2fa338a9ad85a443c9b7745cd61f7",
@@ -1584,15 +1606,15 @@
         "version_id": "lYpHN3iF"
     },
     "tagwiZkJ": {
-        "checksum": "a5dbf9de4274130a17397b4107da90cb80d1903a8d3dc8360ab618a5c64303c936d97ee0cb24850e4270b7c72d408295fb8723d3675ba95ef0f740190400e005",
+        "checksum": "9b46742d15577b8422db00e65d10f1d298f0c2c914c13c128387572ebda7d58c28edb64c2a4941ce17a46b0a0e517552cc6825782bbaaab256ae21492cd0b0f7",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Polymorph",
         "pinned": false,
         "project_id": "tagwiZkJ",
         "selected": true,
-        "version": "0.49.9+1.20.1",
-        "version_id": "gfB8ozV3"
+        "version": "0.49.10+1.20.1",
+        "version_id": "oARBy1is"
     },
     "tpehi7ww": {
         "checksum": "f2d9fcfb3546b1e4013b166aad4d26add0771e967d060a41644d9bb191e17949e41cd37b43ec57b54b16d9b9e8fa5aece89e5c97bdb130c54e0df7875b78bab8",
@@ -1606,15 +1628,15 @@
         "version_id": "d1sY0JqV"
     },
     "twkfQtEc": {
-        "checksum": "749fe95ce82eb9b1175f10641a384d1e7cba99134cda01d4a6478bd6eb8e5d8f93268fa9462970aaf364981c2fbe6a63f4d0be038cf8b72c83308ebee999fefa",
+        "checksum": "23d36b669eae42b9458abf62aa2ab7f402d120b92b5daf80c1a64a6e5b5422f5789d1fbe2d02e332d50ec02762725864dec267d9e560da84ad7d8d49e3e638f9",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Moonlight Lib",
         "pinned": false,
         "project_id": "twkfQtEc",
         "selected": true,
-        "version": "fabric_1.20-2.13.82",
-        "version_id": "xii6uAID"
+        "version": "1.20-2.14.1-fabric",
+        "version_id": "XQ24A9ca"
     },
     "u6dRKJwZ": {
         "checksum": "701d44e8061e5cd0ab231a2bd08cc5daa10c110b66101356506ac650e7f54f47e0b3cc1a35f3fbdbb780fa3d2f9507821402578abbeae08592368c6bc1523b1f",
@@ -1650,15 +1672,15 @@
         "version_id": "unerR5MN"
     },
     "ufdDoWPd": {
-        "checksum": "15b35e76d3f08eccb1d9a6969ee677bd9e4aa359efdd712bde188c98ea4a34414409c17adf3ccbbaf5ef4f7f3bcd3dbf4e31b9a758498c0b81e4db30bb8e6d96",
+        "checksum": "b26bf5eb0f428b79deec4f94c214daf1b3b766aa7c00d0fbf4b7aef7624eb03298e72780868cb8f4c41f36b58aec8a4bb93a3df0e03efa524c26c570be18355a",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Kiwi \ud83e\udd5d",
         "pinned": false,
         "project_id": "ufdDoWPd",
         "selected": false,
-        "version": "11.8.28+fabric",
-        "version_id": "vXiIlQ0y"
+        "version": "11.8.29+fabric",
+        "version_id": "bYC491Ev"
     },
     "ulloLmqG": {
         "checksum": "183ab27562f7ce534b8a00184d241cb4fce6a11d7e0743887bbb8836ebc630a80eea049a5d389d7555cc8fd40d44fbba273d1dc2cc2bfdeabd697eafbdc965f5",
@@ -1683,15 +1705,15 @@
         "version_id": "CBnLZwRS"
     },
     "w4an97C2": {
-        "checksum": "9eb464f315058dba3fdd07f2d9f5a42144b2a0ca91e9fc2b7b945371fe65bb056673dbef2b26853495b89f173a0cebbb977fc4c6d6474f0e2c8e8ec66d79a9e4",
+        "checksum": "24dc0bead0ec99e631443e00f99e8373e50567473e546cc1f15076a63ea1205263a29ad92d948dd1fa4215afbb3d8f093cf2beccb5e14ecabd6226a9da9ec5e9",
         "client_side_only": false,
         "ignore_dependencies": false,
         "name": "Macaw's Lights and Lamps",
         "pinned": false,
         "project_id": "w4an97C2",
         "selected": true,
-        "version": "1.1.1",
-        "version_id": "D8iZj41A"
+        "version": "1.1.2",
+        "version_id": "zdA7bseh"
     },
     "yCDkPh3W": {
         "checksum": "a5833e2e5cdb159e2d06cd5343ceac949f7cda7d7d67d2983fd749a423027d876d4ebdb4265ff9e1876cf33997746d438099d4a8e566eb7e6c1ec880601acb70",
