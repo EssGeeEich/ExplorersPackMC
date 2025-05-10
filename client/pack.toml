@@ -3,7 +3,7 @@
 # Human-friendly name of the pack, used during export.
 name = "Explorer's Pack"
 # Human-friendly version of the pack, used during export.
-version = "v0.2.2-client"
+version = "v0.2.3-client"
 # Git versioning
 dynamic_version = false
 # The minecraft version for this pack.
